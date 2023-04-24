@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);
@@ -51,6 +52,7 @@ int _printf(const char *format, ...)
 
 	return (printed_chars);
 }
+
 /**
  * print_buffer - Prints the contents of the buffer if it exist
  * @buffer: Array of chars
@@ -63,9 +65,4 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
-
-
-
-
-
 
