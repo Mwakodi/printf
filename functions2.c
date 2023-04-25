@@ -6,7 +6,9 @@
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
+ * @length: geth length
  * @width: get width
+ * int:  1 byte
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Number of chars printed.
