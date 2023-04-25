@@ -9,7 +9,7 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
- * unsigned char: 8 bytes
+ * char: 8 bytes
  * Return: Number of chars printed.
  */
 
