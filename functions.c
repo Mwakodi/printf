@@ -1,7 +1,6 @@
 #include "main.h"
 
 /************************* PRINT CHAR *************************/
-
 /**
  * print_char - Prints a char
  * @types: List a of arguments
@@ -9,6 +8,7 @@
  * @flags:  Calculates active flags
  * @width: Width
  * @precision: Precision specification
+ * char: 4 bytes
  * @size: Size specifier
  * Return: Number of chars printed
  */
